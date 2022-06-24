@@ -1,2 +1,0 @@
-# CrashCourse
- dev gym
